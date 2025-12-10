@@ -19,10 +19,10 @@ A new Flutter project.
 <img width="412" height="836" alt="image" src="https://github.com/user-attachments/assets/7daaf5b9-a633-417f-aa4e-a9f386dafa16" />
 <img width="412" height="836" alt="image" src="https://github.com/user-attachments/assets/91dfbc68-6fbb-49ae-8927-5cbbb7cee3dd" />
 
-# Legal Privacy Screen
+# App Update Notification Screen
 
 A new Flutter project.
 
 ## Output
-<img width="412" height="836" alt="image" src="https://github.com/user-attachments/assets/77a9b066-b654-45fe-867d-0ed63408ba6d" />
-<img width="412" height="836" alt="image" src="https://github.com/user-attachments/assets/3f3e58ba-2e0c-4bce-8579-09b489f719dc" />
+<img width="412" height="836" alt="image" src="https://github.com/user-attachments/assets/3b88f253-09ba-4efd-aa62-eaf0f67e2e29" />
+<img width="412" height="836" alt="image" src="https://github.com/user-attachments/assets/970cd794-610a-4018-810f-5578bf071e1f" />
