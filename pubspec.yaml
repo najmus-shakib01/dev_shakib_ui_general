@@ -27,3 +27,5 @@ flutter:
   assets:
     - assets/app_permission_screen/icon/
     - assets/app_permission_screen/image/
+    - assets/push_notification_handling/icon/
+    - assets/push_notification_handling/image/
