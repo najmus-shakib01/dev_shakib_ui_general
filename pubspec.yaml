@@ -29,3 +29,5 @@ flutter:
     - assets/app_permission_screen/image/
     - assets/push_notification_handling/icon/
     - assets/push_notification_handling/image/
+    - assets/legal_privacy_screen/icon/
+    - assets/legal_privacy_screen/image/
