@@ -31,3 +31,5 @@ flutter:
     - assets/push_notification_handling/image/
     - assets/legal_privacy_screen/icon/
     - assets/legal_privacy_screen/image/
+    - assets/app_update_notification/icon/
+    - assets/app_update_notification/image/
